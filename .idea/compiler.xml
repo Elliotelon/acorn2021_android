@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="Hello.app" target="1.8" />
+      <module name="Hello.exam1" target="1.8" />
+      <module name="Hello.exam2" target="1.8" />
+      <module name="Hello.hellokotlinapp" target="1.8" />
+      <module name="Hello.mygame" target="1.8" />
+      <module name="Hello.step01activity" target="1.8" />
+      <module name="Hello.step02layout" target="1.8" />
+      <module name="Hello.step03view" target="1.8" />
+      <module name="Hello.step04activitymove" target="1.8" />
+      <module name="Hello.step05activitylifecycle" target="1.8" />
+      <module name="Hello.step06example" target="1.8" />
+      <module name="Hello.step06listener" target="1.8" />
+      <module name="Hello.step07example" target="1.8" />
+      <module name="Hello.step07listview" target="1.8" />
+      <module name="Hello.step08customadapter" target="1.8" />
+      <module name="Hello.step09fragment" target="1.8" />
+      <module name="Hello.step10viewpager" target="1.8" />
+      <module name="Hello.step10viewpager2" target="1.8" />
+      <module name="Hello.step11bottomnavi" target="1.8" />
+      <module name="Hello.step12customview" target="1.8" />
+      <module name="Hello.step12gameview" target="1.8" />
+      <module name="Hello.step13broadcastreceiver" target="1.8" />
+      <module name="Hello.step14sharedpref" target="1.8" />
+      <module name="Hello.step15sqlite" target="1.8" />
+      <module name="Hello.step16asynctask" target="1.8" />
+      <module name="Hello.step17example" target="1.8" />
+      <module name="Hello.step17httprequest" target="1.8" />
+      <module name="Hello.step18googlemap" target="1.8" />
+      <module name="Hello.step19webview" target="1.8" />
+      <module name="Hello.step19webview2" target="1.8" />
+      <module name="Hello.step20callphone" target="1.8" />
+      <module name="Hello.step20contentprovider" target="1.8" />
+      <module name="Hello.step21musicservice" target="1.8" />
+      <module name="Hello.step21service" target="1.8" />
+      <module name="Hello.step22listview" target="1.8" />
+      <module name="Hello.step23notification" target="1.8" />
+      <module name="Hello.step24fileupload" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
